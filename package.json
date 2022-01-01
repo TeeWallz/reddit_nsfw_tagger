@@ -1,5 +1,6 @@
 {
   "private": true,
+  "homepage": "http://yuribenjamin.github.io/my-app",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
